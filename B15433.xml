@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Questions, concernyng conie-hood, and the nature of the conie Of which, vnder the moderatorship of honie-mouth Stengler, conie-catcher: Merie-pate, the knaue of clubbes, being aunswerer. To take degree in the same facultie shalbe disputed: [...]</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B15433</idno><idno type="EEBO-CITATION">99842313</idno>
+  <idno type="VID">176980</idno>
+  <idno type="EEBO-PROQUEST">2240857184</idno>
+  <idno type="STC">STC 20587.5</idno>
+  <idno type="STC">ESTC S106600</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99842313e"/>
+            <note>(EEBO-TCP ; phase 2, no. B15433)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176980)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 737:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Questions, concernyng conie-hood, and the nature of the conie Of which, vnder the moderatorship of honie-mouth Stengler, conie-catcher: Merie-pate, the knaue of clubbes, being aunswerer. To take degree in the same facultie shalbe disputed: [...]</title>
+                  <author>Greene, Robert, 1558?-1592, attributed name. aut</author>
+               </titleStmt>
+               <extent>[12] p.   </extent>
+               <publicationStmt>
+                  <publisher>R. Jones,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1595]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: "R.R."; sometimes attributed to Robert Greene.</note>
+                  <note>Printer's name and publication date from STC.</note>
+                  <note>Identified as STC 20588a on UMI microfilm.</note>
+                  <note>Signatures: A⁴(-A1-2) B⁴.</note>
+                  <note>B1 lacking.</note>
+                  <note>Reproduction of the original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176980:1"/>
+            <pb facs="tcp:176980:1"/>
+            <p>Questions, concer<g ref="char:EOLhyphen"/>nyng Conie-hood, and the Nature of the Conie.</p>
+            <p>
+               <hi>Of which, vnder the Moderatorship</hi> Of <hi>Honie-mouth Stengler,</hi> Conie-cacther: <hi>Merie-Pate,</hi> the Knaue of Clubbes, Being Aunswerer.</p>
+            <p>To take degree in the same facultie <hi>Shalbe disputed:</hi> In the afternoon-howers, euenings &amp; night-times, amongst a great Concourse of all Studentes in the same Facultie, these next eating, playing and bibbing Kalendes, in the Regent house of Phantastiques.</p>
+            <p>As they were studiouslie Acted in <hi>Germanie.</hi>
+            </p>
+            <q>
+               <l>
+                  <hi>Smiling, who telles a profitable</hi> Trueth,</l>
+               <l>
+                  <hi>In sweet</hi> Conceit, <hi>enfouldes a needfull</hi> Purge,</l>
+               <l>
+                  <hi>Rude</hi> Bobbes <hi>are bitter,</hi> Pleasure <hi>plastereth</hi> Ruthe,</l>
+               <l>
+                  <hi>Which iust</hi> Remorse <hi>from guilty</hi> Soule <hi>might vrge.</hi>
+               </l>
+               <l>
+                  <hi>But he, which takes no warning, fowle or fayre:</hi>
+               </l>
+               <l>
+                  <hi>Gulled with</hi> Gobbes, <hi>I wish him blacke</hi> Dispaire.</l>
+            </q>
+            <p>Read, vnderstand, iudge.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:176980:2"/>
+            <pb facs="tcp:176980:2"/>
+            <head>To the right VVorshipfull, S. S. Esquire.</head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">S</seg>Ir,</salute>
+            </opener>
+            <p>happening to finde by chance, among my Law-papers, the originall print of this Pamphlet, in Latin, as it was acted at <hi>Wit<g ref="char:EOLhyphen"/>tenberg</hi> in <hi>Germanie</hi> during my abode there and afterwardes sent ouer to a friende into <hi>England.</hi> I thought good, in asmuch as wise men ioyne all their pleasures with some profitable conse<g ref="char:EOLhyphen"/>quence, to deeme it worthie your view, wherewith your Worsh at time of your leysure with your recreation may beholde in the way of a iest, manie earnest absurdities of mens conuersations. May it please your W. to accept of it, I haue my wish.</p>
+            <closer>
+               <dateline>
+                  <date>This 4. of Iune 1595.</date>
+               </dateline>
+               <signed>Your Worships deuoted. R. R.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="schematic_list_of_topics_pertaining_to_coneyhood">
+            <pb facs="tcp:176980:3"/>
+            <head>A Table, or Trichotomy, by a Conie of the eighth position, of the matters contai<g ref="char:EOLhyphen"/>ned in these Questions.</head>
+            <p>Conihood procedeth from the
+<list>
+                  <item>Spirits
+<list>
+                        <item>In great personages.</item>
+                        <item>In men of note.</item>
+                        <item>In learned men.</item>
+                        <item>In such as in any such kindes, would be so accounted.</item>
+                     </list>
+                  </item>
+                  <item>Humors in
+<list>
+                        <item>Drunkards</item>
+                        <item>Gluttons.</item>
+                     </list> according to the 4. humors
+<list>
+                        <item>Sanguine.</item>
+                        <item>Melancholie.</item>
+                        <item>Choller.</item>
+                        <item>Fleame.</item>
+                     </list>
+                  </item>
+                  <item>Elements,
+<list>
+                        <item>Graue
+<list>
+                              <item>Counterfeit behauiours.</item>
+                              <item>Hypocrisie.</item>
+                           </list>
+                        </item>
+                        <item>Light
+<list>
+                              <item>In ordinarie entertainings.</item>
+                              <item>In dauncings.</item>
+                              <item>In apparel of
+<list>
+                                    <item>Collours.</item>
+                                    <item>Strange, fashions.</item>
+                                    <item>Mixt fashions.</item>
+                                 </list>
+                              </item>
+                              <item>In vaine dalliance or Courting.</item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+         </div>
+         <div type="treatise_on_coneyhood">
+            <div n="5" type="part">
+               <pb facs="tcp:176980:3"/>
+               <gap reason="missing" extent="1+ pages">
+                  <desc>〈1+ pages missing〉</desc>
+               </gap>
+               <p>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ter is litigious, yet hanging in controuersie, it shall much auaile to marke in what region many of our continent are possessed with this sicknesse: For, <hi>Like will to like.</hi>
+               </p>
+            </div>
+            <div n="6" type="part">
+               <head>VI.</head>
+               <p>OVt of the foresaide definition, it may easilie be concei<g ref="char:EOLhyphen"/>ued, that there is not only one kinde of this disease, but diuers. For, some Conie-hood doth consist in the Spirites, some in the humours, and some in the Elementes, in the manner of a feauer, as hereafter shall more largelie be declared.</p>
+            </div>
+            <div n="7" type="part">
+               <head>VII.</head>
+               <p>FOr, that Conie-hood, which doth consist, in the spi<g ref="char:EOLhyphen"/>rites, is most commonly to bee deprehended in great personages, in men of note, and in learned men, as also in such, who though they bee not such, yet they would bee so accompted. For, these Conie-men beare high and proud mindes, who in respect of themselues de<g ref="char:EOLhyphen"/>spise all their inferiours, they praise and proclaim their own actes, although sometime they lie shamefully: and they speak nothing but sentences or rimes or otherwise, making ver<g ref="char:EOLhyphen"/>ses in their owne commendations they publish them in o<g ref="char:EOLhyphen"/>ther mens names, to the end that they may bee thought the Candlestickes of their countrey, and are men of differing tongues.</p>
+            </div>
+            <div n="8" type="part">
+               <head>VIII.</head>
+               <p>As for example, when at a ciuill table, one man will haue all the talke, and will ouer-rule all the company to his owne conceit: who will only giue directions, and boast of his owne learning, although he bee a foole: who will al<g ref="char:EOLhyphen"/>waies be disputing, singing &amp; drinking a health, &amp; yet is not able to perform any thing; who makes much babble of his riches, and hath euer in his mouth an hundred thousande
+<pb facs="tcp:176980:4"/>and a thousand thousand, &amp; yet is but a poore fellow, who boastes of the Mistresse, when skarsly, or not at all he can preuaile with the maide, and in a word, such an one as doth professe himselfe seene in all faculties, and is alwayes finding out new learnings, and new methodes, and will refute all others.</p>
+            </div>
+            <div n="9" type="part">
+               <head>IX.</head>
+               <p>OF the same barrell are they, which goe Semitary-wise, stalking through the streets, casting vp the head, daun<g ref="char:EOLhyphen"/>cing the measures in their gate, as though they were wey<g ref="char:EOLhyphen"/>ing their legges: they flowe in large cloaks, they lift vp their nose, as though they would hook heauen with it: and they doe diligently obserue where men are trouped, that going by them, they may be pointed at with the finger: who will boast himselfe to be a Gentleman, whereas indeed he is a ve<g ref="char:EOLhyphen"/>rie clowne, and hath a follower, himselfe being neuer fitted to bee a maister: and such as will weare golde ringes, when as yet their calling or other qualitie would not admit it. For all these kindes of Conie-men (and the like) growe from the highnes of the mind, and are Conies in the high<g ref="char:EOLhyphen"/>est degree.</p>
+            </div>
+            <div n="10" type="part">
+               <head>X.</head>
+               <p>COnie-hood, proceding from the humors, is that, which cannot be in men, while they be sober, but then begin<g ref="char:EOLhyphen"/>neth, when the brain or bellie, is become foggie with wine or Ale, as are all those, who can verie well behaue thēselues while they be sober, but as soone as they be drunk, they then growe dead-sicke of this malladie. And these kinds are again diuided according to the foure humors, Bloud, Melancho<g ref="char:EOLhyphen"/>choly, Choller, Fleame.</p>
+            </div>
+            <div n="11" type="part">
+               <head>XI.</head>
+               <p>FRom Bloud proceeds that kind of Conie-hood, which breaks out into laughter, wherby the Conie man maks-
+<pb facs="tcp:176980:4"/>a iest of himselfe, and willinglie giues the Companie occa<g ref="char:EOLhyphen"/>sion to laugh him to scorne, or when he is vext and rubd in deed, and doth well perceiue, that it is giuen him to that end yet he thinkes he bobs others, and is easily perswaded to any thing.</p>
+            </div>
+            <div n="12" type="part">
+               <head>XII.</head>
+               <p>THat Conie-hood which proceedes of Melancholy, is, when in feastings appointed for merriment, this kind of Conie-man sits like <hi>Mopsus</hi> or <hi>Corydon,</hi> blockish, neuer laugh<g ref="char:EOLunhyphen"/>ing, neuer speaking, but so Bearishlie, as if he would deuour all the companie, which he doth to this end, that the guests might mutter, how this his deep Melancholy argueth great learning in him, &amp; an intendment, to most weighty affaires and heauenlie speculations.</p>
+            </div>
+            <div n="13" type="part">
+               <head>XIII.</head>
+               <p>COnie-hood proceeding from Choller, is in him, which amongst mirth, hauing but one crosse worde giuen him, straightwaies fals to his weapons, and will kill and hacke peecemeale the quicke and the dead through superfluity of his manhood (like a Goat) &amp; doth this for this purpose, that the standers by may say, that he is a tall fellow of his hands, and such an one, as will not swallow a cantell of cheese.</p>
+            </div>
+            <div n="14" type="part">
+               <head>XIV.</head>
+               <p>THe Flegmaticall Conie-hood, is that, which growes of too much faithfull drinking, wherethrough by too of<g ref="char:EOLhyphen"/>ten carowsing he is constrained either at boord, in bed, or in dauncing, to speake substancially by disgorging himselfe, vpward or downward. This humor (when he is disburde<g ref="char:EOLhyphen"/>ned and yet faithfully put down) ceaseth to be Conie-hood, (wheras the rest do keep the name of Conie-men, after the deed ouerpassed) and therefore, now is not called a Conie, but anaduisde fellowe, and one that speaks by distinct spaces, and fals vnder the example of grauity in the Elements.</p>
+            </div>
+            <div n="15" type="part">
+               <pb facs="tcp:176980:5"/>
+               <head>XV.</head>
+               <p>IT remaines to speake of that Conie-hood, which is pla<g ref="char:EOLhyphen"/>ced in the Elements. To which end vnderstand, that there are two kinds of bodies Elementary, graue or weightie, and light: whence according to this διχοτομί, or twofolde diuision of Conie-hood: some are sayd, Conie-men of gra<g ref="char:EOLhyphen"/>uitie, or honestie, or religion: and some of leuity, lightnes or follie.</p>
+            </div>
+            <div n="16" type="part">
+               <head>XVI.</head>
+               <p>INto this kind (thick and threefolde) men of superiour place fall headlong: and no maruel, seeing they are with others, of a like birth and kind. But the Conie-hood of gra<g ref="char:EOLhyphen"/>uity especially shewes it selfe in mens maners, by which one may easilie perceiue, if the party haue studied and propoun<g ref="char:EOLhyphen"/>ded vnto himself a ciuil proportion &amp; decencie in his beha<g ref="char:EOLhyphen"/>uiours. And if he haue not done so, you may be bold to refer him to this kinde of Conie-hood.</p>
+            </div>
+            <div n="17" type="part">
+               <head>XVII.</head>
+               <p>AS he which is deuoted to courting of women, and sup<g ref="char:EOLhyphen"/>poseth, when he hath spoken, that he hath spoken ey<g ref="char:EOLhyphen"/>ther Nectar, or a thunderbolt, or, who sometime, when hee should be vncouered, keepes on his Bonnet, expecting to be first saluted: and when he doth wrong to another, looks through his fingers, to see if the other do asmuch again vn<g ref="char:EOLhyphen"/>to him. In generall, whosoeuer sauours of the distinct spea<g ref="char:EOLhyphen"/>ker, mentioned in the foureteenth position, may bee called Conie-men of grauity.</p>
+            </div>
+            <div n="18" type="part">
+               <head>XVIII.</head>
+               <p>THe Conihood of leuitie or lightnesse, is the last, but of al others is the most common and generall. For, hither we referre the fashions of apparell, the wagging and wringing of the body, the kissing of the hand (like Iacke an Apes) the leg, the leg and the halfe, &amp; the two legs and three quarters, either in entertaining or dancing, either by men or women.</p>
+            </div>
+            <div n="19" type="part">
+               <pb facs="tcp:176980:5"/>
+               <head>XIX.</head>
+               <p>AS for example they which haue neuer bene out of their natiue countrie, or if they haue been a while from their mothers dug, vpon their return, gird themselues to a sword, vse diuerse and strange fashions of apparell, with the greate bellie (which we call the breeding of Conihood) a goodly Millan, or strange bonnet, deepe ruffes, close breeches, like <hi>Pithagoras</hi> letter Y. (whence we call these sloppes <hi>Pithagoras</hi> hose, or the <hi>Ypsotonicall</hi> trusse) pumpes and pantables, &amp; such other foolleries, who giue euerie man the becke (as desirous to be reputed some bodie) teare the ground with curtesies, and vse other innumerable settings foorth and reuerences.</p>
+            </div>
+            <div n="20" type="part">
+               <head>XX.</head>
+               <p>OF kin vnto these, be those Conie-men, which weare in part French, in part Dutch fashions, and are folded vp in diuers collours, as red, yellow, greene, white. Out of which number, the sad wearers of black, are euer excepted.</p>
+            </div>
+            <div n="21" type="part">
+               <head>XXI.</head>
+               <p>NEither is this Conie-hood of lightnes in apparell onely, but also in dancings, &amp; other like actions, in which they caper, whip about the house, now affecting the <hi>Italian,</hi> strait the <hi>Polonian,</hi> anon the <hi>English,</hi> and then the <hi>German</hi> action, to the end, they may thrust themselues into some opinion with silly wenches. In regard whereof, we terme these the Vene<g ref="char:EOLhyphen"/>rious or louing Conie-men: and when they haue done, commonly borrow a foolish kisse, &amp; by all means endeuors to honour his mistresse with sillie poemes, or constrained, or simple melancholy glances and aspects.</p>
+            </div>
+            <div n="22" type="part">
+               <head>XXII.</head>
+               <p>THe companions of this kind of Coni-hood are termed <hi>Cornelius Queasie, Cyglio Pilemerandius, Fulenspegelius, Poken-gius, Paule Heed thy selfe, Papa</hi> of the <hi>balde Mount, Claus stultus,</hi> all Ignoraunce, Pride, Luste, abhominable
+<pb facs="tcp:176980:6"/>Lusts, gluttonie, scurrilitie, impudencie, smugnes, which are in some more, in some lesse. And in generall, all the whole troupe of Hobby-horses, who take pleasure in things light, momentarie and vncertaine.</p>
+            </div>
+            <div n="23" type="part">
+               <head>XXIII.</head>
+               <p>THe signes of this Conie-hoode, are laughters till they chucke, loudnesse of voice, wanderings vp and down, apish actions, sudden iumpings, rolling of the eies, long hair after the fashion of women, the apparel, the gate: whereun<g ref="char:EOLhyphen"/>to any man may adde more, whosoeuer shal consider of be<g ref="char:EOLhyphen"/>hauiours according to this Arte, and examines himselfe in his owne skinne, according to that saying, <hi>All things are full of fooles, or foolishnesse.</hi> Therefore is emptinesse no where al<g ref="char:EOLhyphen"/>lowed in nature, whence I conclude, that the Ancients wer deceiued, who maintained the contrarie, and hee that shall manitain the contrarie in any man, but especially in himself, it is at our conuention to be ouer-ruled, that he only shal be the eighth wise man.</p>
+            </div>
+         </div>
+         <div type="list_of_questions">
+            <head>CORONIDES, or Questions to be disputed for pleasure.</head>
+            <list>
+               <item>1 Whether Conie-hood, may bee aswell in women, as men? Which is affirmed.</item>
+               <item>2 Whether any man taking himselfe by the nose, may ap<g ref="char:EOLhyphen"/>prehend withall diuerse kindes of Coni-hoods, as well concerning the quantitie, as the qualities? Both which are affirmed.</item>
+            </list>
+            <trailer>FINIS,</trailer>
+            <pb facs="tcp:176980:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
